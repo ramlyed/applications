@@ -1,0 +1,40 @@
+---
+title: "application"
+author: "Fred Boehm"
+date: "10/18/2019"
+output: html_document
+---
+
+
+> 8. Please describe why you would like to serve in a leadership role for GSA. Be sure to describe your goals in serving the GSA community and any attributes, skills, expertise, or prior experience that would make you an effective member of our leadership team. Please provide concrete examples.
+
+I would like to serve the GSA community by promoting retention of scientists from historically underrepresented groups. This includes women and ethnic minorities. To paraphrase a close friend, "Women and ethnic minorities in graduate school have each had 20+ years of crappy things happening to them in their schooling". 
+
+Skills that will help me to be an effective leader include that I'm a good listener and that I'm tenacious enough to get things done. 
+
+One example is my previous leadership of a student group that visited a homeless shelter two nights per week. At every visit, we read and played with the children who resided at the shelter. I wrote grant proposals, organized volunteers, and wrote annual reports, in addition to visiting the shelter two nights per week. One major contribution involved collaborative planning structured activities for the children.
+
+My experience with the children at the shelter also demonstrates my ability to work effectively with individuals from diverse backgrounds. Many of the children at the shelter were ethnic minorities, some spoke languages other than English, and all belonged to families with financial hardships.
+
+
+
+
+
+
+> 9. Please describe any issues relevant to our community that you are passionate about. Do you have suggestions for ways GSA might address these issues?
+
+One issue that I care deeply about is making STEM careers more accessible and inclusive for people of all backgrounds. Scientists are often mischaracterized in popular culture, and I fear that this mischaracterization discourages young people, especially girls and non-white students, from pursuing careers in science. It's my belief that society would benefit from having a scientific work force that more accurately captures diverse human experiences and backgrounds.
+
+One strategy is for GSA to partner with a youth mentoring organization, including the organization "Letters to Prescientists", to connect with individual students in efforts to make science careers more accessible. Other youth-oriented organizations might present additional opportunities.
+
+In my volunteer work with "Letters to Prescientists", I corresponded with an eighth-grade girl from a poor community in Santa Cruz, California. Despite our different backgrounds, we became friends and, I hope, she learned that science not only has a place for her, but that we need her.
+
+
+
+
+> 10. Please describe any previous leadership experience and how you feel it will contribute to your participation in the GSA Leadership and Professional Development program.
+
+In addition to the above experiences, I served as research mentor for a female college student from China. We met regularly to discuss research progress. I tried to be a sounding board for her ideas. I also aimed to help her narrow the scope of her project so that it was both achievable in the desired time frame and scientifically important. She later enrolled in graduate school to study for a masters degree in a STEM field. While she would have been successful with any mentor, I hope that I offered support and encouragement during our time working together.
+
+
+
