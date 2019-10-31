@@ -1,0 +1,8 @@
+---
+title: "README"
+author: "Frederick J. Boehm"
+date: "10/31/2019"
+output: github_document
+---
+
+Submission will open at 8 a.m. ET on November 4th and close at 5 p.m. ET on November 21st.
