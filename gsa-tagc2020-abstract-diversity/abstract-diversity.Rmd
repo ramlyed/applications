@@ -1,0 +1,14 @@
+---
+title: "Enhancing student inclusion by training future educators"
+author: "Frederick J. Boehm"
+date: "11/8/2019"
+output: github_document
+params:
+  lastmod: !r lubridate::now()
+---
+
+Last modified: `r params$lastmod`.
+
+
+
+
