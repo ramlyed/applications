@@ -1,6 +1,6 @@
-Enhancing student inclusion by training future educators
+Enhancing inclusion of diverse students by training future educators
 ================
 Frederick J. Boehm
 11/8/2019
 
-Last modified: 2019-11-08 19:46:30.
+Last modified: 2019-11-08 19:49:06.
