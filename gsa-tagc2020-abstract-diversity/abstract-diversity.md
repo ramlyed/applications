@@ -10,8 +10,10 @@ development course for future college instructors. We implemented the
 curriculum in both in-person and online formats. Weekly class meetings
 focused on activities and discussions of teaching practices that
 encourage and support the increasingly diverse student body in higher
-education. Activities included teaching of strategies to combat
-microaggressions in real time. By targeting our classes at current
-graduate students who wish to become professors, we aim to effect
-institutional change over many years. We conclude the presentation with
-lessons learned and future directions.
+education. Topics included understanding the dimensions of diversity, 
+practicing strategies to combat microaggressions in real time, 
+reviewing pedagological approaches to support inclusivity, 
+and exploring data and research to support classroom practices. 
+By targeting our classes at current graduate students who wish to become 
+professors, we aim to effect institutional change over many years. 
+We conclude the presentation with lessons learned and future directions.
